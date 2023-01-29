@@ -68,7 +68,7 @@ function startGame() {
      car.style.left = "10px";
      car.style.top = "10px";
      
-     car.style.backgroundColor = "red";
+     car.style.backgroundColor = "blue";
      gameScreen.appendChild(car);
      
  

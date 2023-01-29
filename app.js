@@ -25,14 +25,11 @@ let player = {
 }
 
 
-function start(){
-     console.log("Car")
-    let car = document.querySelector('.car');
+// function start(){
+//      console.log("Car")
+//     let car = document.querySelector('.car');
     
-     if(player.start){
-       car.style.top = 
-       requestAnimationFrame(start);
-     }
+    
 }
 
 function keyPressed(e) {
